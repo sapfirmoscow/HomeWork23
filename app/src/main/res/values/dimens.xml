@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="greenSquare_side">50dp</dimen>
+    <dimen name="redSquare_side">80dp</dimen>
+    <dimen name="blueSquare_side">20dp</dimen>
+    <dimen name="graySqare_side">60dp</dimen>
+</resources>
